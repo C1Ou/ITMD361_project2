@@ -1,3 +1,27 @@
-p{
-	
+nav{
+	background-color: rgb(160, 20, 79);
+}
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+nav ul li{
+	float: left;
+}
+nav ul li a{
+	display: block;
+	padding: 10px;
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: ;
+}
+nav ul li a:hover{
+	background-color: ;
+	color:yellow ;
+
 }
