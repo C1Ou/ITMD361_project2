@@ -16,7 +16,8 @@ nav ul li a{
 	font-weight: bold;
 	text-decoration: none;
 	text-align: center;
-	width: 100px;
+	font-family: ;
+	width: 110px;
 	padding: 10px 0px 5px 0px;
 	border-radius: 5px;
 }
@@ -24,4 +25,5 @@ nav ul li a:hover{
 	background-color: ;
 	color: yellow;
 	border-radius: 20px;
+	text-transform: uppercase;
 }
