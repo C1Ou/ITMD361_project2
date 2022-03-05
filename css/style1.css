@@ -1,27 +1,52 @@
-nav{
-	background-color: rgb(160, 20, 79);
+nav#horz1{
+  background-color: rgb(160, 20, 79);
 }
-nav ul{
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
+nav#horz1 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
 }
-nav ul li{
-	float: left;
+nav#horz1 ul li {
+  float: left;
 }
-nav ul li a{
-	display: block;
-	padding: 10px;
-	font-size: 20px;
-	color: white;
-	text-decoration: none;
-	font-weight: bold;
-	font-family: ;
+nav#horz1 ul li a {
+  display: block;
+  padding: 10px;
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-family: ;
 }
-nav ul li a:hover{
-	background-color: ;
-	color:yellow ;
-	text-transform: uppercase;
+nav#horz1 ul li a:hover {
+  background-color: ;
+  color: yellow;
+  text-transform: uppercase;
+}
+#header {
+	background-color: #b3b8bc;
+	padding: 15px;
+}
 
+#wrapper{
+	width: 960px;
+	margin: 0 auto;
+	outline: #ff7900 2px dashed;
+}
+#main{
+	float: left;
+	width: 300px;
+	margin: 0 20px;
+	outline: 2px dashed #dd0009;
+}
+#extras{
+	float: left;
+	width: 600px;
+	margin: 0 20px 0 0;
+	outline: 2px dashed #dd0009;
+}
+#footer{
+	background-color: #b3b8bc;
+	padding: 15px;
 }
