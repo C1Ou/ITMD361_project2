@@ -35,7 +35,9 @@ nav#horz1 ul li a:hover {
 	font-family: 'Dancing Script', cursive,sans-serif;
 }
 body{
-	background-image: url(../images/rbk.png);
+	background-image: url(../images/rbk1.png);
+	margin: 0;
+	padding: 0;
 
 }
 
@@ -59,6 +61,7 @@ body{
 	outline: 2px dashed #dd0009;
 }
 #footer{
+	clear: left;
 	background-color: #b3b8bc;
 	padding: 15px;
 }
