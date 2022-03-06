@@ -11,7 +11,6 @@ nav#horz1 ul{
 	padding: 0;
 	margin: 0;
 	overflow: hidden;
-	background-color: black;
 }
 nav#horz1 ul li{
 	float: left;
@@ -35,14 +34,14 @@ nav#horz1 ul li a:hover{
 }
 #main{
 	float: left;
-	width: 60%;
+	width: 50%;
 	margin: 0 5%;
 	outline: 2px dashed #0053ae;
 
 }
 #extras{
 	float: left;
-	width: 25%;
+	width: 35%;
 	margin: 0 5% 0 0;
 	outline: 2px dashed #dd0009;
 }
