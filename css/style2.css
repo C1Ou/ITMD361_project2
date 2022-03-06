@@ -54,6 +54,13 @@ nav#horz1 ul li a:hover{
 	margin: 0 2.5% 0 0;
 	outline: 2px dashed #009554;
 }
+#news img{
+	width: 100%;
+}
+#news iframe{
+	width: 95%;
+	padding: 5px;
+}
 #footer{
 	clear: left;
 	padding: 15px;
