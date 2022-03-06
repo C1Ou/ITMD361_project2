@@ -42,6 +42,9 @@ body{
 h2{
 	font-family: ;
 	padding: 5px;
+	font-family: 'Hubballi', cursive,sans-serif;
+
+	font-size: 2em;
 }
 
 #wrapper{
@@ -60,7 +63,7 @@ h2{
 }
 .tb1 table{
 	width: 340px;
-	margin: 5px;
+	margin: 0 5px;
 	text-align: center;
 	border: 1.5px dashed white;
 	background-color: #ffa500;
@@ -79,6 +82,21 @@ h2{
 	font-family: ;
 	font-size: 1.1em;
 	font-weight: bold;
+}
+#ul1 ul{
+	list-style-type: square;
+	background-color: #ffa500;
+	width: 300px;
+	margin: 0 0 5px 5px;
+
+}
+#ul1 ul li {
+	color: #272935;
+	font-family: 'Comfortaa', cursive, sans-serif;
+	font-size: 1em;
+	font-weight: bold;
+
+
 }
 #extras{
 	float: left;
