@@ -1,4 +1,4 @@
-header{
+#header{
 	background-color: #ccc;
 	padding: 10PX;
 	text-align: center;
@@ -11,6 +11,7 @@ nav#horz1 ul{
 	padding: 0;
 	margin: 0;
 	overflow: hidden;
+	background-color: black;
 }
 nav#horz1 ul li{
 	float: left;
