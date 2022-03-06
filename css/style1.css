@@ -38,7 +38,10 @@ body{
 	background-image: url(../images/rbk1.png);
 	margin: 0;
 	padding: 0;
-
+}
+h2{
+	font-family: ;
+	padding: 5px;
 }
 
 #wrapper{
@@ -51,17 +54,29 @@ body{
 #main{
 	float: left;
 	width: 350px;
-	margin: 0 20px;
+	margin: 10px 20px;
 	outline: 2px dashed #dd0009;
+	background-color: #ff8c00;
 }
 #extras{
 	float: left;
 	width: 550px;
-	margin: 0 20px 0 0;
+	margin: 10px 20px 0 0;
 	outline: 2px dashed #dd0009;
+	background-color: #ffd700;
 }
+#play{
+	clear: both;
+
+	width: 920px;
+	margin: 5px 20px;
+	outline: 2px dashed #dd0009;
+	background-color: yellow;
+}
+
+
 #footer{
-	clear: left;
+	clear: both;
 	background-color: #b3b8bc;
 	padding: 15px;
 }
