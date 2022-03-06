@@ -58,6 +58,28 @@ h2{
 	outline: 2px dashed #dd0009;
 	background-color: #ff8c00;
 }
+.tb1 table{
+	width: 340px;
+	margin: 5px;
+	text-align: center;
+	border: 1.5px dashed white;
+	background-color: #ffa500;
+	border-collapse: collapse;
+	font-size: 1em;
+	font-family: 'Comfortaa', cursive, sans-serif;
+}
+.tb1 table tr{
+	border: 1px dotted white;
+}
+.tb1 table td{
+	border: 1px dotted white;
+}
+.wd1{
+	color: #DC143C;
+	font-family: ;
+	font-size: 1.1em;
+	font-weight: bold;
+}
 #extras{
 	float: left;
 	width: 550px;
