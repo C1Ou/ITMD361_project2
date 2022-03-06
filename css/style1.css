@@ -40,11 +40,16 @@ body{
 	padding: 0;
 }
 h2{
-	font-family: ;
-	padding: 5px;
+	padding: 0 5px;
 	font-family: 'Hubballi', cursive,sans-serif;
-
+	color:#272935 ;
 	font-size: 2em;
+}
+h3{
+	padding: 0 5px;
+	color: #272935;
+	font-family: 'Hubballi', cursive,sans-serif;
+	font-size: 1.6em;
 }
 
 #wrapper{
