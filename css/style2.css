@@ -46,8 +46,10 @@ h2{
 	margin: 5px 5px 0 5px;
 	background-color: #3ca98c;
 	font-size: 1.6em;
-	padding: 3px 0 ;
+	padding: 3px 5px ;
+	border-radius: 5px;
 }
+
 #target{
 	float: left;
 	width: 22.5%;
@@ -67,11 +69,30 @@ h2{
 	background-color: #5e9da4;
 	border-radius: 10px;
 }
+#target img{
+	width: 100%;
+
+}
 #main{
 	float: left;
 	width: 47%;
 	margin: 10px 2%;
 	outline: 2px dashed #0053ae;
+}
+section{
+	margin: 2px 5px;
+	background-color: #83c4b1;
+
+}
+h3{
+	font-family: 'Hubballi', cursive,sans-serif;
+	font-weight: bold;
+	color: yellow;
+	font-size: 1.3em;
+}
+p{
+	font-family: 'Hubballi', cursive,sans-serif;
+	text-align: justify;
 }
 #news{
 	float: left;
