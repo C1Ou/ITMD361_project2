@@ -27,31 +27,56 @@ nav#horz1 ul li a:hover{
 	border-radius: 20px;
 	text-transform: uppercase;
 }
+body{
+	background-color: #e1c3cf;
+}
 #header{
-	background-color: #ccc;
+	background-color: #017b66;
 	padding: 5px;
+	margin: 10px 0 0 0 ;
 	text-align: center;
-	color: brown;
-	font-family: ;
-	font-weight: ;
-	font-size: ;
+	border-radius: 20px;
+	color: #f1ede1;
+	font-family: 'Comfortaa', cursive,sans-serif;
+	font-weight: bold;
+	font-size: 1.4em;
+}
+h2{
+	font-family: 'Hubballi', cursive,sans-serif;
+	margin: 5px 5px 0 5px;
+	background-color: #3ca98c;
+	font-size: 1.6em;
+	padding: 3px 0 ;
 }
 #target{
 	float: left;
 	width: 22.5%;
-	margin: 0 0 0 2.5%;
-	outline: 2px dashed #dd0009;
+	margin: 10px 0 0 2%;
+	outline: 4px solid #025647;
+}
+.ul1 ul{
+	list-style-type: circle;
+	font-family: 'Fredoka', sans-serif;
+	color: #272935;
+
+}
+.ul1 ul li{
+	border: 1px dotted #3ca98c;
+	margin: 5px 5px 5px 0;
+	padding: 3px 0 3px 3px;
+	background-color: #5e9da4;
+	border-radius: 10px;
 }
 #main{
 	float: left;
-	width: 45%;
-	margin: 0 2.5%;
+	width: 47%;
+	margin: 10px 2%;
 	outline: 2px dashed #0053ae;
 }
 #news{
 	float: left;
 	width: 22.5%;
-	margin: 0 2.5% 0 0;
+	margin: 10px 2% 0 0;
 	outline: 2px dashed #009554;
 }
 #news img{
@@ -64,6 +89,6 @@ nav#horz1 ul li a:hover{
 #footer{
 	clear: left;
 	padding: 15px;
-	background-color: #ccc;
+	background-color: #4c718b;
 	
 }
