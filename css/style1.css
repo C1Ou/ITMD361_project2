@@ -9,6 +9,7 @@ nav#horz1 ul {
 }
 nav#horz1 ul li {
   float: left;
+  
 }
 nav#horz1 ul li a {
   display: block;
@@ -17,8 +18,8 @@ nav#horz1 ul li a {
   color: white;
   text-decoration: none;
   font-weight: bold;
-  font-family: 'mooch Sans', sans-serif;
-  
+  font-family: 'mooch Sans', sans-serif; 
+ 
 }
 nav#horz1 ul li a:hover {
   background-color: #cb276c;
