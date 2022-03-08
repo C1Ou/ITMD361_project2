@@ -16,13 +16,12 @@ nav#horz1 ul li a{
 	font-weight: bold;
 	text-decoration: none;
 	text-align: center;
-	font-family: ;
 	width: 130px;
 	padding: 10px 0px 5px 0px;
 	border-radius: 5px;
 }
 nav#horz1 ul li a:hover{
-	background-color: ;
+	background-color: #FA8072;
 	color: yellow;
 	border-radius: 20px;
 	text-transform: uppercase;
