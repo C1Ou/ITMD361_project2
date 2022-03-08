@@ -57,11 +57,30 @@ h2{
 }
 h3{
 	font-size: 'Righteous', cursive,sans-serif;
+	color: #DC143C;
+	margin: 0 5px;
+	font-size: 1.6em;
+}
+.ul1 ul{
+	list-style-type: square;
+	font-family: 'Fredoka', sans-serif;
+	font-size: 1em;
+	color: #f1ede1;
+}
+.ul1 ul li{
+	background-color: rgba(39, 41, 53, 0.5);
+	margin: 0 5px 5px 0px;
+	padding: 3px 0 3px 5px;
 }
 p{
 	font-family: 'Hubballi', cursive,sans-serif;
 	text-align: justify;
 	text-indent: 2em;
+	padding: 3px 5px;
+	font-size: 1.2em;
+	margin: 0 5px 5px 5px;
+	background-color: rgba(241, 237, 225, 0.6);
+	font-weight: bold;
 }
 #extras{
 	float: left;
