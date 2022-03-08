@@ -27,7 +27,6 @@ nav#horz1 ul li{
 nav#horz1 ul li a{
 	display: block;
 	color: black;
-	font-family: ;
 	text-decoration: none;
 	text-align: center;
 	width: 140px;
@@ -56,7 +55,7 @@ h2{
 	color: yellow;
 }
 h3{
-	font-size: 'Righteous', cursive,sans-serif;
+	font-family: 'Righteous', cursive,sans-serif;
 	color: #DC143C;
 	margin: 0 5px;
 	font-size: 1.6em;
