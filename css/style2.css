@@ -69,6 +69,16 @@ h2{
 	background-color: #5e9da4;
 	border-radius: 10px;
 }
+.ul2 ul{
+	list-style-type: none;
+	font-family: 'Fredoka', sans-serif;
+	color: #272935;
+	font-size: 1em;
+}
+.ul2 ul li{
+	float: left;
+	display: block;
+}
 #target img{
 	width: 100%;
 
@@ -77,7 +87,7 @@ h2{
 	float: left;
 	width: 47%;
 	margin: 10px 2%;
-	outline: 2px dashed #0053ae;
+	outline: 3px solid #ff8c00;
 }
 section{
 	margin: 2px 5px;
@@ -98,18 +108,20 @@ p{
 	float: left;
 	width: 22.5%;
 	margin: 10px 2% 0 0;
-	outline: 2px dashed #009554;
+	outline: 2px solid #dc143c;
 }
 #news img{
 	width: 100%;
 }
 #news iframe{
-	width: 95%;
-	padding: 5px;
+	width: 100%;
+
 }
 #footer{
 	clear: left;
-	padding: 15px;
+	color: white;
+	padding: 5px;
 	background-color: #4c718b;
+	height: 30px;
 	
 }
